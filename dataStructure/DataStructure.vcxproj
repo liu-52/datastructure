@@ -127,11 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinTree.c" />
     <ClCompile Include="Common.h" />
     <ClCompile Include="Glist.c" />
     <ClCompile Include="LinkList.h" />
     <ClCompile Include="Main.c" />
     <ClCompile Include="SeqList.c" />
+    <ClCompile Include="Tree.h" />
+    <ClCompile Include="TreeStruct.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="matrixmult.h" />
