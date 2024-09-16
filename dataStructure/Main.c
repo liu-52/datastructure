@@ -14,6 +14,6 @@ int main() {
 	BinTree b;
 	b = NULL;
 	BinTree bt =  CreateBinTree(b);
-	printf_s("%c", bt->data);
+	printf("%c", bt->data);
 	return 0;
 }

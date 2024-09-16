@@ -17,4 +17,5 @@ Glist createGlist(Glist GL) {
     {
         GL = (GLNode *)malloc(sizeof(GLNode));
     }
+    return GL;
 }
